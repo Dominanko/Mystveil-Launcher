@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-**A new way to experience Minecraft.**
+***A new way to experience Minecraft.***
   <br>
   Modern design. Smooth performance. Your Minecraft, your way.
 </p>
