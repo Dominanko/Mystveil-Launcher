@@ -4,15 +4,15 @@
 </p>
 
 <p align="center">
-  **A new way to experience Minecraft.**
+**A new way to experience Minecraft.**
   <br>
   Modern design. Smooth performance. Your Minecraft, your way.
 </p>
 
 <p align="center">
-  ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
-  ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20Edition-green?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Minecraft-Java%20Edition-3C8527?style=for-the-badge&logo=minecraft&logoColor=white">
+  <img src="https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge">
 </p>
 
 🌙 About Mystveil
